@@ -14,3 +14,7 @@ Sources
 2.) img_predictions.tsv - a file hosted on Udacity's servers
 
 3.) df_tr_fav.csv - Here I used the Tweepy library to query Twitter's API for additional data.  I will read this data into a json file and extract it from this file to create a dataframe.
+
+Additional included files are my Wrangle report and Action Report.
+The Wrangle Report walks the reader through my steps in acquiring the data from the different sources.
+The Action Report walks the reader through insights that I gathered from the data.
