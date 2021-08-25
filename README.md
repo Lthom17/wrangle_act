@@ -13,4 +13,4 @@ Sources
 
 2.) img_predictions.tsv - a file hosted on Udacity's servers
 
-3.) I will use the Tweepy library to query Twitter's API for additional data.  I will read this data into a json file and extract it from this file to create a dataframe.
+3.) df_tr_fav.csv - Here I used the Tweepy library to query Twitter's API for additional data.  I will read this data into a json file and extract it from this file to create a dataframe.
